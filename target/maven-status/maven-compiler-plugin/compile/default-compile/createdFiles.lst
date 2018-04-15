@@ -1,0 +1,11 @@
+com\ubs\calculator\Calculator.class
+com\ubs\calculator\Market.class
+com\ubs\calculator\MarketUpdateImpl.class
+com\ubs\calculator\TwoWayPriceImpl.class
+com\ubs\calculator\VwapValues.class
+com\ubs\calculator\Instrument.class
+com\ubs\calculator\Side.class
+com\ubs\calculator\TwoWayPrice.class
+com\ubs\calculator\MarketUpdate.class
+com\ubs\calculator\CalculatorImpl.class
+com\ubs\calculator\State.class
